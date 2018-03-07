@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+.process .first
+{
+	color:#000;
+	font-size:26px;
+	position:relative;
+	top:30%;
+	text-align:center;
+	font-weight:bold;
+}
+.process .second
+{
+	color:#666;
+	font-size:22px;
+	position:relative;
+	top:20px;
+	left:10px;
+}
+.process .third
+{
+	color:#666;
+	position:relative;
+	top:15px;
+	font-size:9px;
+	
+}
+.process .process1
+{
+	height:120px;
+	width:120px;
+	border-radius:50%;
+	border:1px solid #CCC;
+}
+.process .process2
+{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	border:1px solid #CCC;
+	position:relative;
+	left:8%;
+	top:8%;
+}
+.process .process3
+{
+	height:80px;
+	width:80px;
+	border-radius:50%;
+	border:1px solid #CCC;
+	position:relative;
+	left:9%;
+	top:9%;
+}
+.service
+{
+	color:#000;
+}
+.service .bg
+{
+	background-image: url(../image/6.png);
+	height: 432px;
+	width: 450px;
+	background-repeat: no-repeat;
+}
+.service .pin
+{
+	font-size:24px;
+	font-weight:bold;
+}
+.service .pin2
+{
+	font-size:20px;
+}
+.route .recommend
+{
+	border:1px solid #CCC;
+	width:310px;
+}
+.route .recommend a
+{
+	cursor:pointer;
+}
+.route .recommend p
+{
+	color:#666;
+	font-size:16px;
+	text-align:center;
+}
+.route .recommend .p1
+{
+	font-size:13px;
+	text-align:left;
+}
+.route .recommend1
+{
+	background-image: url(../image/bg5.png);
+	height: 100px;
+	width: 600px;
+}
+.route .recommend1 a
+{
+	color:#666;
+	text-decoration:none;
+	font-size:14px;
+	cursor:pointer;
+}
+.route .recommend1 a:hover
+{
+	color:#F00;
+	text-decoration:none;
+}
